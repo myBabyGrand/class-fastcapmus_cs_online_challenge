@@ -1,1 +1,1 @@
-class-fastcampus_cs_online_challenge
+class-fastcampus_cs_online_challenge.
